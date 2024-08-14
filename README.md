@@ -1,4 +1,4 @@
-# number-game CODSOFT
+# CODSOFT
 import java.util.Scanner;
 class Game
 {
